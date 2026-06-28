@@ -1,2 +1,1 @@
-
 # securepass-check-repository-
